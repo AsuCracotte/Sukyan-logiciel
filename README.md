@@ -1,4 +1,4 @@
-# Sukyan-logiciel
+# Sukyan
 
 Sukyan is a software that allows you to update all your components. It always informs you when there is a new driver online. Additionally, it includes an overclocking section, enabling you to overclock your components such as your GPU or RAM.
 
